@@ -1,0 +1,11 @@
+xarray
+netCDF4
+rasterio
+numpy
+tqdm
+pandas
+scikit-learn
+tensorflow
+torch
+matplotlib
+ipywidgets
