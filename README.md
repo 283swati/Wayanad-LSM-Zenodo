@@ -1,4 +1,5 @@
-# A Dual-Phase Framework for Static and Dynamic Spatiotemporal Prediction of Landslides using a Temporally Consistent Ensemble Model
+# Dual-Phase Framework for LSM
+ A Dual-Phase Framework for Static and Dynamic Spatiotemporal Prediction of Landslides using a Temporally Consistent Ensemble Model
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20205386.svg)](https://doi.org/10.5281/zenodo.20205386)
 
